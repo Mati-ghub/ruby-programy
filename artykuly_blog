@@ -1,7 +1,7 @@
 articles = {
   '1' => {title: 'UFC', content: "Mistrzostwa UFC", comments: [{ content: 'Naprawdę warto zobaczyć', author: 'mateusz.kleszcz@example.com'}, { content: 'Nawet spoko', author: 'marek.fila@gmail.com'}]},
   
-  '2' => {title: 'FEN', content: "Sztuki walki", comments: [{ content: 'Konkretne walki', author: 'pawel.leper@gmail.com'}, { content: 'spoko', author: 'twoj@stary.com'}]},
+  '2' => {title: 'FEN', content: "Sztuki walki", comments: [{ content: 'Konkretne walki', author: 'pawel.leper@gmail.com'}, { content: 'spoko', author: 'mateusz.pawlak@gmail.com'}]},
   
   '3' => {title: 'KSW', content: 'Walki', comments: [{ content: 'Super!!', author: 'kasia.cichopek@gmail.com'}, { content: 'Nawet fajne', author: 'michal.klaczkowski@gmail.com'}]},
   
